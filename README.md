@@ -47,6 +47,7 @@ api-data-extractor/
 ├── BackEnd.py              # Custom backend logic for data extraction
 ├── raw_json/               # Folder to store downloaded JSON files
 ├── requirements.txt        # Python dependencies
+├── Environment             # Python virtual environment
 └── README.md               # Project documentation
 ```
 
